@@ -9,7 +9,7 @@ I build machine learning from first principles and the data systems it runs on.
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-sandhyaneupane.github.io-6E8BFF?style=for-the-badge)](https://sandhyaneupane.github.io)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-43E0C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhyaneupane@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-43E0C8?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dhyaneupane@gmail.com)
 
 📫 **dhyaneupane@gmail.com**
 
@@ -64,7 +64,7 @@ I'm looking for software engineering, data and machine learning internships.
 ## Let's connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-6E8BFF?style=flat-square&logo=googlechrome&logoColor=white)](https://sandhyaneupane.github.io)
-[![Email](https://img.shields.io/badge/Email-43E0C8?style=flat-square&logo=gmail&logoColor=white)](mailto:dhyaneupane@gmail.com)
+[![Email](https://img.shields.io/badge/Email-43E0C8?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=dhyaneupane@gmail.com)
 
 📫 Email me at **dhyaneupane@gmail.com**
 
